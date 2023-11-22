@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Example Summary
 
 Empty project using DriverLib.
@@ -39,3 +40,6 @@ MSPM0 LaunchPad, please visit the [LP-MSPM0G3507 User's Guide](https://www.ti.co
 ## Example Usage
 
 Compile, load and run the example.
+=======
+# pwm-mspm0g3507
+>>>>>>> fc29ee4ac43a54442fed666e49cf9654e924b140
